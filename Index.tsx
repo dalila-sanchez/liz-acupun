@@ -73,7 +73,7 @@ const Index = () => {
             <div className="flex flex-col items-center gap-4 animate-fade-in-delayed-2">
               <Button variant="clinical" size="xl" asChild>
                 <a
-                  href="https://wa.me/XXXXXXXXXXX?text=Hola,%20quiero%20agendar%20mi%20valoración%20integrativa"
+                  href="https://wa.me/+5215552520615?text=Hola,%20quiero%20agendar%20mi%20valoración%20integrativa"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
